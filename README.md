@@ -1,4 +1,4 @@
-# URLScan API
+# PhishLink Analyzer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
@@ -43,8 +43,8 @@ API REST para deteccao de phishing em URLs utilizando Machine Learning. O servic
 1. Clone o repositorio:
 
 ```bash
-git clone https://github.com/jpaullopes/URLScan-API.git
-cd URLScan-API
+git clone https://github.com/jpaullopes/PhishLink-Analyzer.git
+cd PhishLink-Analyzer
 ```
 
 1. Crie o ambiente virtual e instale as dependencias:

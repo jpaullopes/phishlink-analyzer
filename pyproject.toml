@@ -1,5 +1,5 @@
 [project]
-name = "Phishing-link-analysis"
+name = "phishlink-analyzer"
 version = "0.3.0"
 description = "API web para análise híbrida de URLs, combinando Machine Learning e regras heurísticas para detecção de phishing."
 readme = "README.md"
