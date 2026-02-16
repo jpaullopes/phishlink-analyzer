@@ -10,7 +10,6 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.impute import SimpleImputer
 from sklearn.ensemble import GradientBoostingClassifier
-from sklearn.metrics import classification_report, confusion_matrix
 import warnings
 
 warnings.filterwarnings("ignore")

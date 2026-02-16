@@ -26,7 +26,7 @@ API REST para deteccao de phishing em URLs utilizando Machine Learning. O servic
 | Framework Web | Flask |
 | ML | scikit-learn (GradientBoostingClassifier) |
 | Extracao de Features | tldextract, BeautifulSoup4, Requests |
-| Dados | pandas, NumPy, PyArrow |
+| Dados | pandas, NumPy |
 | Gerenciador de Pacotes | uv |
 
 ---
@@ -43,8 +43,8 @@ API REST para deteccao de phishing em URLs utilizando Machine Learning. O servic
 1. Clone o repositorio:
 
 ```bash
-git clone https://github.com/jpaullopes/PhishLink-Analyzer.git
-cd PhishLink-Analyzer
+git clone https://github.com/jpaullopes/phishlink-analyzer.git
+cd phishlink-analyzer
 ```
 
 1. Crie o ambiente virtual e instale as dependencias:

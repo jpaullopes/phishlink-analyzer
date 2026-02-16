@@ -1,7 +1,7 @@
 [project]
 name = "phishlink-analyzer"
-version = "0.3.0"
-description = "API web para análise híbrida de URLs, combinando Machine Learning e regras heurísticas para detecção de phishing."
+version = "0.4.0"
+description = "API web para análise de URLs, usando Machine Learning para detecção de phishing."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -10,13 +10,9 @@ dependencies = [
     "pandas",
     "scikit-learn",
     "numpy",
-    "matplotlib",
-    "seaborn",
-    "pyarrow",
     "flask",
     "beautifulsoup4",
-    "requests",
-    "python-whois"
+    "requests"
 ]
 
 [tool.ruff]
