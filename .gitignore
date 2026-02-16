@@ -12,6 +12,10 @@ build/
 
 # Model files
 *.joblib
+modelo_metadata.json
 
 # Data files
 src/data/
+
+# Outhers
+uv.lock
